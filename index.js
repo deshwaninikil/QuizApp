@@ -85,6 +85,6 @@ for(var i=0; i<highScores.length;i++) {
  console.log(chalk.yellow("----------"))
 }
 
-console.log(chalk.red.bold.underline("If you scored the highest or second highest, please send the screeshot to get it updated. :) "))
+console.log(chalk.red.bold.underline("If you scored the highest or second highest, please send the screeshot to get it updated. "))
 
 
